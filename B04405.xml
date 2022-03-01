@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian's companion under soul-exercise : or, A sermon preached at the Hole of the Gate-rige in the parish of Bathgate and shire of Linlithgow. May 26. 1678. By Mr. John Mosman.</title>
+            <author>Mosman, John, ca. 1634-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04405</idno>
+            <idno type="STC">Wing M2857AA</idno>
+            <idno type="STC">ESTC R180720</idno>
+            <idno type="EEBO-CITATION">52612204</idno>
+            <idno type="OCLC">ocm 52612204</idno>
+            <idno type="VID">179508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179508)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2791:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian's companion under soul-exercise : or, A sermon preached at the Hole of the Gate-rige in the parish of Bathgate and shire of Linlithgow. May 26. 1678. By Mr. John Mosman.</title>
+                  <author>Mosman, John, ca. 1634-1693.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Sermons --  17th century.</term>
+               <term>Bible. --  O.T. --  Psalms LXXVII, 1-2 --  Sermons --  17th century.</term>
+               <term>Christian life --  Sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179508:1"/>
+            <pb facs="tcp:179508:1" rendition="simple:additions"/>
+            <p>THE CHRISTIAN'S COMPANION UNDER SOUL-EXERCISE: OR, A SERMON Preached at the Hole of the Gate-rige in the Pariſh of <hi>Bath-gate</hi> and Shire of <hi>Linlithgow.</hi>
+            </p>
+            <p>May 26. 1678.</p>
+            <p>By Mr. <hi>John Moſman.</hi>
+            </p>
+            <q>
+               <bibl>Pſalms 77.1. and 2 verſes.</bibl>
+               <p>I cryed unto GOD with my Voice: even unto GOD with my Voice, and He gave Ear unto me. In the day of my Trouble I ſought the LORD; my Sore ran in the Night, and ceaſed not: my Soul refuſed to be comforted.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:179508:2"/>
+            <pb n="3" facs="tcp:179508:2"/>
+            <head>THE TEXT.</head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalms 77.1. and 2. Verſes.</bibl>
+                  <p>I cryed unto GOD with my Voice: even unto GOD with my Voice, and He gave Ear unto me. In the Day of my Trouble I ſought the LORD; my Sore ran in the Night, and ceaſed not: my Soul refuſed to be comforted.</p>
+               </q>
+            </epigraph>
+            <p>IT is no great Difficulty to ſtay ſome Folks Grief, and to Comfort them againſt their Sorrow, for it is but ſmall and upon a ſmall account: But it will not be an eaſie thing to ſtay the Grief and Comfort the Soul that is afflicted under the Exerciſe of Chriſts abſence. And it is no wonder it be ſo, for there is none that can come and make up the want which He makes when He goes away: There is none in Heaven nor in Earth that will fill His place; If the Soul miſs Him that has Real Love to Him, it will be a very vain thing to of<g ref="char:EOLhyphen"/>fer a hyre to that man to give ov'r ſeeking of Him, be his Dif<g ref="char:EOLhyphen"/>ficulty what it will. And it is as vain a thing to bid that man ſeek CHRIST through Difficulties that has no Love to Him; for the man that has no Reſpect to CHRIST, will never fol<g ref="char:EOLhyphen"/>low Him throw Temptations and Difficulties. Now in thir Words that we have read to you, ye have theſe three or four particulars.</p>
+            <p>
+               <hi>First,</hi> Ye have a great piece of Diſtreſs and ſore Trouble, that this afflicted man was in at this time; he was in a ſore and
+<pb n="4" facs="tcp:179508:3" rendition="simple:additions"/>
+laſting Trouble, <hi>even both Night and Day.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Ye have his Carriage and Behaviour while un<g ref="char:EOLhyphen"/>der his Trouble, he is not Idle; he is concerned with his own Souls Caſe, and he reſts not till he carry that to the Throne.</p>
+            <p>
+               <hi>Thirdly,</hi> Ye have his Succeſs; he comes very good ſpeed; he carries his Caſe in before the Throne, and he is heard, and anſwered, and gets very good News from Heaven, and theſe are more Comfortable News, nor any News from any Cor<g ref="char:EOLhyphen"/>ner of the Earth; a Man cannot hear any News from any Corner of the World that can or will Refreſh him ſo, as good News from Heaven will do.</p>
+            <p>
+               <hi>Laſtly,</hi> Ye have this remarkable in the Words, he ſets all down upon Record; he keeps all in Regiſter that it may ne<g ref="char:EOLhyphen"/>ver be forgotten by him ſo long as he lives.</p>
+            <p>Now I ſhall Obſerve five or ſix <hi>Notes</hi> from theſe Words, and ſhall but ſpeak a ſhort word to each of them, and ſo ſhall cloſe.</p>
+            <p>The <hi>First</hi> Thing that I Obſerve is this, That there is ſome things which a Chriſtian ſhould never forget; there is ſome things that a Chriſtian ſhould keep in Memory ſo long as he liveth; yea there is ſome things that a Chriſtian would ſet down upon Record, or Regiſter upon his Soul to be keeped to the fore till his Dying Day.</p>
+            <p>A <hi>Second Note</hi> I Obſerve is this, That a Chriſtian under Sore Trouble or Perplexing Trials may be very ſore put to it; he may have very hard Labour, and be brought very Low, before that he obtain an Out-gate. <hi>I cryed,</hi> ſays he; it is a Token that he was ſore put to it, when put to Cry.</p>
+            <p>A <hi>Third Note</hi> that I Obſerve is this, That it is no ſmall Matter for a Chriſtian to get a Prayer ſent up to GOD in the day of his Sore Trouble and Affliction; <hi>I cryed, even unto GOD</hi> (Was there any other body to Cry to nor to GOD? in<g ref="char:EOLhyphen"/>deed no, but what tho'?) It is no ſmall Work, or Importance
+<pb n="5" facs="tcp:179508:3"/>
+for a Chriſtian to get his Prayer directed to Heaven in the day of his Sore Trouble.</p>
+            <p>A <hi>Fourth Note</hi> that I Obſerve is this, That ordinarly theſe Duties are moſt Succeſsfull which are gone about againſt moſt Diſcouragement, and which a Man followeth through mani<g ref="char:EOLhyphen"/>eſt Temptations. The Work that a Man ſets too againſt ma<g ref="char:EOLhyphen"/>nieſt Diſcouragements, and purſues againſt manieſt Oppoſi<g ref="char:EOLhyphen"/>tions in his Way, ordinarly that Work or Duty will proſper beſt; <hi>I cryed, and He heard me.</hi> I was once no able to ſpeak at all when I was laid by or with a Temptation, but when I laid the Temptation aſide, and cryed, then He heard me.</p>
+            <p>A <hi>Fifth Note</hi> that I Obſerve is this, that the Trouble that a Chriſtian is ſometimes expoſed too, is ſo great that it ad<g ref="char:EOLhyphen"/>mits of no Intermiſſion, it admits of no Vacancy, Delay or On-waiting; There is here no Vacant Time, neither Day not Night, <hi>In the Day of my Trouble my Sore ran in the Night, and ceaſed not:</hi> He had neither Days Reſt nor Nights Reſt.</p>
+            <p>
+               <hi>Laſtly,</hi> Ye may Obſerve this <hi>Note</hi> from the Words, and it is this, That the Day comes or is coming wherein the Chri<g ref="char:EOLhyphen"/>ſtian ſhall ſpeak of all his Sore Troubles and Sad Afflictions as things bygone, as things over, as of things paſt, as of things done: For ye ſee he ſpeaks here of thir things as of things done, and bygone; <hi>My Soul Refuſed to be Comforted, and my Sore ran in the Night:</hi> but it is over now and bygone.</p>
+            <p>Now the <hi>First Note</hi> that I ſhall ſpeak a little too, ſhall be the firſt of theſe, which is this, That there are ſome things that a Chriſtian would never forget, but that he would keep in perpetual Remembrance; he would Regiſter them on his Soul for evermore: But may ye ſay, What are theſe things that a Chriſtian ſhould never forget? Ille tell you of four or five things that a Chriſtian ſhould never forget ſo long as he lives.</p>
+            <p>
+               <hi>Firſt,</hi> How near hand Hell ſometime of day he was. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi>
+               <pb n="6" facs="tcp:179508:4"/>
+What a heartſome Welcome the LORD gave him in the Day of his Diſtreſs and Low Condition, how kindly He Intertained him. And, <hi>Thirdly,</hi> How ſeaſonable GODs ap<g ref="char:EOLhyphen"/>pearance for him was. And, <hi>Fourthly,</hi> What CHRIST has done in his behalf; what great things CHRIST has done for him. And, <hi>Laſtly,</hi> What he has done againſt CHRIST. All theſe five things a Chriſtian would never forget, he would keep them in his Memory while he lives.</p>
+            <p>Now as to the <hi>Firſt</hi> of theſe that ye would never forget how near hand Hell ſome Day ye were, and how little there was betwixt you and Eternal Ruine; betwixt you and ever<g ref="char:EOLhyphen"/>laſting Flames: If ye remember this, ye will have great Be<g ref="char:EOLhyphen"/>nefit thereby. And I ſhall ſay but theſe three things to it.</p>
+            <p>
+               <hi>First,</hi> If ye remember how near hand Hell ye once were: O but this will make CHRIST very much Precious, and will commend Him to your Souls! O ſhall I ever forget Him? (will the Soul ſay) that came in betwixt me and my Ruine, when there was but one ſtep betwixt me and Death: Chriſt went in betwixt me and that; and O ſhall I ever have an Ill Thought of Him; that when I was going in at the Pits Brink, He came and took a grip of me, and drew me back again; and now He is ſuch an one to me, as ſhall have no Fellow in my Account; He ſhall never have a Companion, and how ever (or who ever) they are that turn aſide by the Tents of His Companions; yet I know none that I will make Companion to Him: Surely the Soul will ſay ſo, who remem<g ref="char:EOLhyphen"/>bers how near hand Hell ſome Day they once were. <hi>Second<g ref="char:EOLhyphen"/>ly,</hi> It will have great Influence upon your Carriage and Con<g ref="char:EOLhyphen"/>verſation; it will make you a very Tender Walker with GOD; Whenever an Old Luſt or Idol comes back to ſeek the Old Room that it had in your Heart before, it will not be made Welcome, nor admitted by you to win ſo far ben again; Ille keep thee now at the back of the Door, and I will not let
+<pb n="7" facs="tcp:179508:4"/>
+thee in at all. Ay will the Man ſay, a Curſe be upon thee Idol or Luſt, for thou thought to have had me to Hell, and indeed thou had brought me once very near the Pit; but through Grace <hi>I eſcaped as a Bird out of the Snare of the Subtile Fowler.</hi> And now through the Grace of GOD, thou and I ſhall never ſhake hands together again O but the Soul that remembers how near Hell it has been, but it will be a Chriſtian of a Tender and Circumſpect Walk, and will be Spiritually Minded in every thing; that Soul will be ſo far from making Peace with an Idol or Luſt of the Heart upon any account, that the very firſt thoughts ſtrucken in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pon the Heart (to Intertain and Welcome it back again <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Old Place) will ſtrick Fear and Terror in the Heart. <hi>Thi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ly,</hi> If ye remember how near hand Hell ſome time a day once ye were, it will make you very Humble under every Croſs, and very Submiſſive under every Affliction: When brought under Trouble or Affliction whether outwardly or inwardly, or it may be both, at ſuch a time Satan will come to thee and ſay to thee, ſee how Chriſt handles thee, did I not tell thee how He would uſe thee, and now ſee whether He uſes thee Friendly-like or no. Nay, but ſays the Poor Man, for this Affliction or Croſs, ſhall I caſt out with Him? that has come in betwixt me and Hell, and ſatisfied Juſtice for me, and freed me from the Curſe of the Law by His own Blood? No, that will I not do, let Him do with me what He will; let Him lead me where ever He pleaſe; I will labour to be content with Him, be my Lot what it will, and it were even to follow him through a Wilderneſs, a Land not Inhabited nor Sown; ay, and it were, through Fire and Water; yea, and Death it ſelf ſhall not be able to ſeparate him and me.</p>
+            <p>But we come now to the <hi>Second</hi> thing that a Chriſtian would never forget, which is this, What a Joyfull and Heartſome Welcome they received from Him in the Day of their Low
+<pb n="8" facs="tcp:179508:5"/>
+Condition when they could do nothing for themſelves, nor had no Friends to give them Counſel, or take them by the hand. If ye remember his Kindneſs to you in that Day, this will give you a ſight of theſe Three Things, <hi>Firſt,</hi> It will give you a very broad Sight of the Freeneſs of his Love to your Souls; O what will the Thoughts of this breed in your Heart, when ye remember; once in a day I had nothing to Commend me to Him, I had nothing to hold me Faſt by Him; I had neither Form, Beauty nor Comlineſs in me; and yer even in that ve<g ref="char:EOLhyphen"/>ry Day when I came to him ſo, I was made very Welcome to Him, and He intertained me very Kindly and Friendly, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ok me into the Banqueting-houſe of Wine, and there He Feaſted me with his Love. O wonderfull! that in that Day when there was none to ſpeak a Good for me, nor to do for me, He both ſpake for me, and did all my Buſineſs, even when there was not ſo much as one to ſay for me; He ſaid, Let thy Soul dwell with the reſt of My Friends: I both came to him without a Friend to ſpeak for me, and alſo in my Rags Filthineſs, and yet I was Welcome to him. O but this may the Soul ſay was Great Free Love and Mercy to my Soul, Un<g ref="char:EOLhyphen"/>deſerved from Him. <hi>Secondly,</hi> This will let you ſee or hold out to you the Riches of his Grace (may the Poor Soul ſay that has gotten an Intereſt in Chriſt) I went to him in the Day of my Low Eſtate, and even when I had juſtly offended him, and given him great cauſe to be Angry with me, and to Frown at me; and yet even in that Caſe he did not caſt up to me my Faults, nor any piece of my Folly, or former Miſcarri<g ref="char:EOLhyphen"/>age; but in his Gentleneſs he made me Welcome, for all my Folly; and ſtood not upon my Wickedneſs to Debarr me from his Preſence, as he might have done. <hi>Thirdly,</hi> If ye do not forget what a kindly Welcome ye have gotten from him, it will let you ſee your Duty, and make you to lay out your ſelf for him to the outmoſt of your Power; it will make you Tender
+<pb n="9" facs="tcp:179508:5"/>
+of his honour. Will the Soul ſay, ſhall I do this and make the World ſpeak Ill of him that has been ſo Kind to me? Shall I for any Worldly Gain, or Earthly Advantage, or Ho<g ref="char:EOLhyphen"/>nour, or Pleaſure, or any thing elſe garr my Kind LORD be ill ſpoken of; through his Strength I ſhall never do that while I live that may Diſhonour him, or make his Precious and Bleſ<g ref="char:EOLhyphen"/>ſed Name to be Evil ſpoken off.</p>
+            <p>But the <hi>Third</hi> Thing (I would ſpeak a word too) which ye would never forget ſo long as ye live is this, The Seaſonable<g ref="char:EOLhyphen"/>neſs of his Appearance for you, if ye remember how ſeaſon<g ref="char:EOLhyphen"/>ably He came and appeared for you when ye were in your Low Condition; it will have Influence upon you to make you do theſe Two or Three Things: <hi>First,</hi> It will make you re<g ref="char:EOLhyphen"/>member him in all your Straits, and wait patiently upon him till He appear for you; There will never be a Strait or a Croſs that ye can come into, but ye will wait upon him in it for your Outgate. It may be Satan and Corruption and Temp<g ref="char:EOLhyphen"/>tations will be ready to offer you a Back-door to eſcape out of the Trial: But ſays the Soul (that remembers of his ſeaſon<g ref="char:EOLhyphen"/>able appearing for them in their Low Condition) his com<g ref="char:EOLhyphen"/>ing to me when I was in a Low Condition was ſeaſonable e<g ref="char:EOLhyphen"/>nough before, and why ſhould not I wait upon him now in this Trial, till he appear for me as formerly he did, when I was not waiting for him. And, <hi>Secondly,</hi> It will not only make you wait upon him, but wait with great Confidence and Hope of his appearance for you. Says the Poor Soul, I will not quate my Confidence, nor be Diſcouraged under this Croſs: And why ſo? Wa, ſays the Poor Body, I wat well he that came ſo ſeaſonably and in time enough for my Relief, and ap<g ref="char:EOLhyphen"/>peared for me when I was not looking for him, will much more come now and appear for me; and therefore I will wait upon him with Confidence and Hope. And, <hi>Thirdly,</hi> If ye remember the ſeaſonableneſs of his appearance for you in the
+<pb n="10" facs="tcp:179508:6"/>
+Day of your Low Eſtate, then it will make you to wait upon him now both Chearfully and with Joy: And why ſo? Wa, I'le tell you why, the laſt time that he came, he came ſo ſea<g ref="char:EOLhyphen"/>ſonably, that it made my Soul to Rejoice and be Glad; and therefore I will now wait Willingly and Chearfully upon him, for I know he will come now as before, and when he comes, my Soul ſhall be Glad and Rejoice in him, and ſo I will wait upon him.</p>
+            <p>But we come to the <hi>Fourth</hi> Thing that ye would never forget ſo long as ye live, and that is, What Great Things Chriſt hath done for you. And in ſpeaking to this, I will tell you of Five Things that Chriſt has done for you, which ye ſhould never forget all the Days of your Life ſo long as ye live in the World. And the <hi>First</hi> is this, His ſeeking of Ac<g ref="char:EOLhyphen"/>quaintance with you in the day when ye had no mind of Ac<g ref="char:EOLhyphen"/>quaintance with him. May not the Chriſtian ſay, O ſhould I ever forget that Day when he came to my Father's Houſe, and called me by my Name &amp; Surname, and took no moe of the Fa<g ref="char:EOLhyphen"/>mily but my ſelf; and ſhould I ever forget that Day, when he came to me (who had a Luſt in my Heart, and running Wild after my Idols) and ſaid, ſtay Sinner, ſtand ſtill and I'll ſhew thee the Way to Life, for that Way thou is on, is no the Way to Happineſs. O Sirs, any of you that has Experience of ſuch a Day, never forget it that he ſhould have ſought you and de<g ref="char:EOLhyphen"/>ſired you when ye had no mind nor deſire of him, <hi>Second<g ref="char:EOLhyphen"/>ly,</hi> Ye ſhould never forget his Communicating to you and making known (after his Acquaintance with you) his Eter<g ref="char:EOLhyphen"/>nal Purpoſe of Love. Has he not made this known to ſome of you, and ſaid, now Sinner, I tell thee this, I have begune Friendſhip and Acquaintance with thee that will never end, nor break off again; For I have loved thee with an Everlaſting Love that will never End; I have ſpoken the Word that I will never break nor alter; I have ſhaken hands with thee that ſhall
+<pb n="11" facs="tcp:179508:6"/>
+never go free again: And therefore may ye not ſay, <hi>To Him that hath loved us, and waſhed us in His own Blood, and hath made us Kings and Prieſts unto GOD, and the Fa<g ref="char:EOLhyphen"/>ther, to Whom be Glory, Honour and Dominion for ever and ever:</hi> But O what have ye to give him? Wa, truly ſays the ſenſible Soul, I have nothing to give him at all, but only this, if my Wiſh and Deſire could Exalt Chriſt, he ſhould not want it; for I would gladly ſee him High in Heaven and Earth, and I would gladly have him high and exalted in the Eſtimation of all his People, and that they might remember his Love to them: But who ever forget him and his Love, it ſhall not be I, for while I live I ſhall Praiſe him, and remember his Love to me. A <hi>Third</hi> Thing that ye ſhould never for<g ref="char:EOLhyphen"/>get ſo long as ye live, and that is, His Drinking up your Hell in one Cup, the thing that ye ſhould have been Drinking to all Eternity, he Drank it up all in one Cup, and O but it was Skunering to him (and yet he ſtood not upon it; further ſays he, <hi>If it be poſſible let this Cup depart from Me.</hi> Ye know that ſad Paſſage in the 22. of <hi>Luke</hi> from the 42, and 44. ver<g ref="char:EOLhyphen"/>ſes and downward after he had prayed with Submiſſion to the Father's Will <hi>that it might paſs from Him, He was in a Great Agony, and prayed more earnestly, and His Sweat was as it were Great Drops of Blood falling down to the Ground.</hi> Heard ye ever tell of a Diſtreſs that made a Man to Sweat Drops of Blood, but this? No indeed, it never had a Paralell, nor never will. Now in that Day He was Drinking up your Hell for you all at one Draught, and ye ſhould never forget that Day. One Drop of that Cup of the Father's Wrath which He Drank on your behalf; if ye had gotten it, it would have made you to cry out in Horror for evermore; it made him to Cry but once, but you for evermore. Never one of you Mourned and Weeped for Sin as He Weeped, albeit there was no Sin in him. Wa, What can be the Cauſe of that ſay
+<pb n="12" facs="tcp:179508:7"/>
+ye? I'll tell you the Cauſe or Reaſon of it, ye never knew the Weight of Sin as he did. O Sirs! know ye what gart him Weep over <hi>Jeruſalem</hi> when he looked on it; when they Weeped none for themſelves. Wa, this gart him Weep, becauſe He knew the Weight of Sin and the Miſery that was coming on them for it, and not they; and therefore he Wept over it. But a <hi>Fourth</hi> Thing that Chriſt has done for you that ye ſhould never forget, and that is, His taking away all Objecti<g ref="char:EOLhyphen"/>ons that might have weakened your Right, or darkened your Evidence; Yea whatever might have weakened your Right to the Tree of Life in the Paradiſe of God, he hath taken all away; ſo that now there is no Objection that can come in the way of a Poor Sinners coming to Chriſt, but <hi>He</hi> has taken it away. So that now there is no Objection that Satan or Misbelief can raiſe againſt a Poor Thing, but Chriſt has taken it all away, <hi>Col.</hi> 2.14, 15. <hi>He has blotted out the Hand-writing of Or<g ref="char:EOLhyphen"/>dinances which was againſt us, contrary to us, and took it out of the Way, Nailing it to His Croſs. And having ſpoil<g ref="char:EOLhyphen"/>ed Principalities and Powers, He made a ſhew of them openly Triumphing over them in it.</hi> Every Objection that Sa<g ref="char:EOLhyphen"/>tan or the World, or Misbelief can propone, he has taken it a<g ref="char:EOLhyphen"/>way, &amp; Nailed it to his Croſs, that ye might thereby have a Right to the Tree of Life, and that having a Right to it, then there is no Objection can Weaken it at all, and this ſhould never be forgotten by you. A <hi>Fifth</hi> Thing that Chriſt has done for you that ye ſhould never forget, and that is, His bearing you Com<g ref="char:EOLhyphen"/>pany under all your Croſſes. If thou be one of his Friends, will thou tell me Time or Place wherein thou ever had any piece of a Croſs or Affliction, or any Sorrow, wherein he bare thee not Company under it. I am ſure there is none of his People that can Witneſs to the contrair; but that he has born them Company in it, and yet is to this Day doing ſo. And now that he has born, and yet is bearing thee Company under
+<pb n="13" facs="tcp:179508:7"/>
+all thy Temptations and Troubles is a thing that thou ſhould never forget ſo long as thou lives in the World, and have ye done, and are yet doing ſo? Na, Ye have not done ſo, ye have not remembred him to be the bearer of you under eve<g ref="char:EOLhyphen"/>ry Croſs that ye were to meet with in Time, &amp; that it may ap<g ref="char:EOLhyphen"/>pear ſo. Will ye tell me where ye were when he came to your Door and laid down his Croſs at it, and ye refuſed to take it up? And where were ye when the Enemies thought to have Baniſhed Chriſt out of <hi>Scotland?</hi> And where were ye when they laid a Stone upon his Grave? If ye had remembred this, and believed that he would bear you Company, would ye not have been ready to have ſuffered with Him, and to have gone to Death and the Grave with Him.</p>
+            <p>But we come now to a <hi>Fifth</hi> Thing that ye would never for<g ref="char:EOLhyphen"/>get ſo long as ye live, and that is, What ye have done againſt Him, for as ye would never forget what He has done for you; even ſo likewiſe ye would never forget what ye have done a<g ref="char:EOLhyphen"/>gainſt Him, Now there are theſe Five or Six things that ye have done againſt Him that ye would never forget.</p>
+            <p>And the <hi>First</hi> is this, Ye would never forget what ye have done againſt Him or ye was acquain with Him. And there are Two Things that ye have done againſt Him or ye were ac<g ref="char:EOLhyphen"/>quaint with Him that ye would never forget. And, The <hi>First</hi> is this, Ye would never forget your Natural State, what ye were before ye were acquaint with Him; Ye have this of <hi>Paul,</hi> he never forgat what he was before he was acquaint with Chriſt; and therefore he ſays, <hi>I was a Blaſphemer and a Perſecuter, and Injurious.</hi> He took the very Thoughts of the Ills and Miſchief that he did againſt Chriſt to his Grave with him, <hi>Secondly,</hi> Ye would never forget your particular Sins of Ignorance that ye have done againſt Chriſt or ye was acquaint with Him, that ye may Mourn over every one of them. Take heed I pray you, how ye reckon up your Old
+<pb n="14" facs="tcp:179508:8"/>
+Sins, leſt ye forget them: It may be that there be many here the day that are ſo far from taking notice what they formerly were, that they never yet knew what it was to keep from a<g ref="char:EOLhyphen"/>ny Sin that their Heart inclined them too. Are there not ma<g ref="char:EOLhyphen"/>ny here that never knew what yet it was to keep themſelves from Lieing, Swearing, and Blaſphemy, and the like. O be fear'd for theſe Things, for there is little betwixt a Blaſphe<g ref="char:EOLhyphen"/>mer and a Perſecuter. Ye would obſerve the particular Sins and Iniquities that ye have done againſt Chriſt, and ſet them down in Regiſter, that ye may Remember them. For <hi>Paul</hi> ſets down his Grand Iniquities and Sins; <hi>I was a Blaſphe<g ref="char:EOLhyphen"/>mer and a Perſecuter, and Injurious.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Ye would never forget what ye have done a<g ref="char:EOLhyphen"/>gainſt Chriſt ſince ye were acquaint with Him; and there are theſe <hi>Three</hi> or <hi>Four</hi> Things that ye have done againſt Chriſt ſince ye were acquaint with Him that ye would never forget.</p>
+            <p>And the <hi>First</hi> is this, Ye would never forget how ye have Grieved and Offended His Holy Spirit. Are ye not convin<g ref="char:EOLhyphen"/>ced that many a Time ye have Grieved His Spirit, and ſinned againſt Light; and have ye not Grieved His Spirit, and ſinned againſt many Warnings? And have ye not Grieved His Holy Spirit, and ſinned againſt many Corrections? And if ye have done ſo, ſhould it not ly heavy upon your Spirits.</p>
+            <p>
+               <hi>Secondly,</hi> Ye would never forget how meikle ye have ſtum<g ref="char:EOLhyphen"/>bled the World by your Practice, and made them to Offend at Chriſt: Know ye not what Chriſt may ſay of ſome of you the day; may He not ſay to ſome of you thou art an of Mine; an of my Followers; It's true thou art an of my Dear Friends; but notwithſtanding thou has ſtumbled and offended many at Me (through thy Groſs and Untender Carriage) that would have ſerved Me meikle better nor ever thou has done: And there<g ref="char:EOLhyphen"/>fore it is an of the things that thou would never forget, what thou has done to Stumble and Offend the World from Fol<g ref="char:EOLhyphen"/>lowing
+<pb n="15" facs="tcp:179508:8"/>
+of Me by your Unholy, and Ungoſpel like Walk and Converſation before the World amongſt whom thou ſhould have walked as Light ſhining in a Dark Place.</p>
+            <p>
+               <hi>Thirdly,</hi> Ye would never forget what ye have done againſt Him in the Intertainment of your Secret Idols. I have no doubt but there is none of you all almoſt, but ye have ſome Secret Idol-houſe or another, where ye Intertain your Idol; and O this is to break the Wedlock with the Son of GOD, and to play the Harlot.</p>
+            <p>
+               <hi>Fourthly,</hi> Ye would never forget this, how many a day ye have had Low and Baſe Thoughts of Precious Chriſt that has done much for you, and if He would forget you but one Moment, then Wo would be to you for ever; and yet ye have forgotten Him, not only Hours and Moments, but Days and Weeks without Number.</p>
+            <p>But now the <hi>Second Note</hi> that I ſhall ſpeak too is this, That a Chriſtian under Sore Trouble may be verie ſore put to it, and brought verie low before Enlargement come. May ye ſay how Low may they be brought? How Sore may they be put to it? I'le tell you in theſe <hi>Four</hi> or <hi>Five</hi> Things,</p>
+            <p>
+               <hi>Firſt,</hi> A Chriſtian under Sore Trouble may be brought to this paſs or Enlargement come, that they may be put by all Ex<g ref="char:EOLhyphen"/>pectation under Chriſt. Ye know that Pſalm we were Singing. Pſalm 142. <hi>All Refuge failed me, no Man cared for my Soul;</hi> it was Low enough to be brought to this with it.</p>
+            <p>
+               <hi>Secondly,</hi> A Chriſtian under a piece of Sore Exerciſing Trou<g ref="char:EOLhyphen"/>ble, and Diſtreſs may be put ſo to it, as to put manie a Pray<g ref="char:EOLhyphen"/>er to GOD, and yet hear nothing like an Anſwer from Him; in the 22. Pſalm 2. Verſe. <hi>O my GOD, I cry in the day time, but Thou hearest not, and in the night ſeaſon I am not ſilent, and yet Thou takes no notice at all.</hi> And is not this Sad? to be putting up manie Petitions to GOD and getting no An<g ref="char:EOLhyphen"/>ſwer at all, nor no Notice taken of them at all.</p>
+            <p>
+               <pb n="16" facs="tcp:179508:9"/>
+               <hi>Thirdly,</hi> A Chriſtian under Sore Trouble may be put to take aſſay of all Means of all Duties, and yet have no Advantage. <hi>Job</hi> was at this; he tried all Means, and Gained no Advan<g ref="char:EOLhyphen"/>tage; <hi>Behold, I go forward and backward,</hi> Job 23.8. <hi>but I cannot find Him: I ſeek Him on the Left Hand where He doth Work, but I cannot behold Him: and on the Right Hand, but I cannot ſee Him.</hi> Would <hi>Job</hi> ſay, Let me try what I will, I ſee nothing, but that GOD is ſtill mine Enemy.</p>
+            <p>
+               <hi>Fourthly,</hi> A Chriſtian under Sore Trouble may be brought to this paſs ere Enlargement come to him, That his Faith may begin to ſtagger, ay he may be even near hand the quiting Grips of the Promiſe, the Finger of his Faith may grow cum<g ref="char:EOLhyphen"/>bered that he cannot take a Grip of the Promiſe; I think it be in Iſaiah 38.11. <hi>I ſaid I ſhall not ſee the LORD, even the LORD, in the Land of the Living: I ſhall behold Man no more with the Inhabitants of the World.</hi> Was not his Faith beginning to ſtagger, when he was at this with it; <hi>I ſhall not ſee the LORD any more in the Land of the Living: with the Inhabitants of the World.</hi>
+            </p>
+            <p>And <hi>Fifthly,</hi> A Chriſtian under Sore Trouble and Diſtreſs, it may be put him to this, that it will put him by his Ordina<g ref="char:EOLhyphen"/>rie; it will make him to keep himſelf within Rooff and Wall; it will make him forget to keep within Doors; it will make him to cry out aloud. What Means that (may ye ſay) to Cry? I'le tell you, it Imports theſe <hi>Three</hi> or <hi>Four</hi> Things.</p>
+            <p>
+               <hi>Firſt,</hi> It Imports Seriouſneſs. It may be that the Man had a Form of Words; but now he is put by it. Would the LORD ſay to the Man that had nothing but a Form; I gart him Cry and turn Serious, and let him not reſt upon his bare Form of Words.</p>
+            <p>
+               <hi>Secondly,</hi> Crying it Imports felt Diſtance; For ye know, that ye muſt cry to the Man at a Diſtance that ye cannot ſpeak quiet<g ref="char:EOLhyphen"/>ly too. When a Man is put to Cry, it Imports, That GOD
+<pb n="17" facs="tcp:179508:9"/>
+is far from that Man, (as to his Senſe at leſt) it Imports that Soul is under much felt Diſtance from GODs Preſence.</p>
+            <p>
+               <hi>Thirdly,</hi> Crying, It Importeth ſome Great Weight on ano<g ref="char:EOLhyphen"/>ther upon the Soul. If a Man were Travelling upon a Hill, and a Heavie Burden on his Back, and his Strength failing him, would he not cry for Help? So Crying Importeth a Sore Preſſure or Burden upon the Mans Spirit. Ye know <hi>Moſes</hi> when ſtanding on the Sea-ſhore, and the Red-ſea before him, and <hi>Pharaoh</hi> behind him, and Rocks on everie Hand, and not a Word was he crying at all. And yet ſee what the LORD ſays, He ſaw a Heavie Burden or Preſſure upon the Man's Spirit. And as it was a Heavie Burden to <hi>Moſes,</hi> ſo a loud Cry to the LORD: And therefore ſays the LORD, Exod. 14.15. <hi>Wherefore cryeſt thou unto Me?</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Crying, Imports apparent Danger; If a Child were Travelling through a Wood after his Father, and if a Lyon appeared to him, and his Father a ſtap or two from him, would he not cry for fear of Danger. Even ſo, when a Chriſtian apprehends and ſees that he is near Loſt, and the Lyon has him almoſt in his Paw, it will make him to cry. And from this it may be Obſerved, that thoſe that is always one and the ſame, and is no more, that they ſee not their Danger, or elſe if they ſaw it, they would be put to cry as well as others</p>
+            <p>But a <hi>Third Note</hi> that I would ſpeak a Word too, is this, That it is no ſmall Buſineſs or Difficultie for a Chriſtian to get a Prayer ſent up to GOD in the Day of his Sore Trouble or Affliction. Now I ſhall let you ſee the Difficultie that a Chri<g ref="char:EOLhyphen"/>ſtian hath to Direct his Prayer to GOD in the Day of his Sore Trouble, in theſe <hi>Three</hi> or <hi>Four</hi> Things.</p>
+            <p>
+               <hi>First,</hi> Becauſe Sore Trouble fills a Mans Heart with Pre<g ref="char:EOLhyphen"/>judices at CHRIST. This ye ſee clear in the 73. <hi>Pſalm</hi> and 13. Verſe, when <hi>David</hi> ſaw the Proſperitie of the Wicked,
+<pb n="18" facs="tcp:179508:10"/>
+and the Affliction of the Godlie, he is offended at it. Is this all the Kindneſs I get for being Godlie? to be dailie in Af<g ref="char:EOLhyphen"/>fliction, while the Wicked Proſper in the World? Verilie I think that I have been a verie Great Fool; <hi>for verily I have Cleanſed my Heart in Vain, and Waſhed my Hands in In<g ref="char:EOLhyphen"/>nocency: for all Day long have I been Plagued, and Chaſt<g ref="char:EOLhyphen"/>ned every Morning.</hi> A Man in ſuch a Frame as that, will find it a Great Buſineſs, and no ſmall Matter for him to get his Prayer directed to GOD.</p>
+            <p>
+               <hi>Secondly,</hi> It is a Great Difficultie for a Man in ſuch a Caſe to direct his Prayer to GOD, becauſe Misbelief preſents the Work of Prayer to the Man as Uſeleſs. When a Man is under a Pre<g ref="char:EOLhyphen"/>vailing Power of Unbelief. That Temptation will tell him, his Praying will be but in Vain. Is it a ſmall Matter for a Man under Sore Trouble to pray then, think ye? no indeed; It is a great Buſineſs to win at it to pour out his Heart to GOD in ſuch a Caſe.</p>
+            <p>
+               <hi>Thirdly,</hi> It is a Great Matter for a Man to Direct his Pray<g ref="char:EOLhyphen"/>er to GOD while under Sore Trouble, and that becauſe, of<g ref="char:EOLhyphen"/>tentimes Sore Trouble is accompanied with Terror from GOD, and when the LORD is not accompaning a Mans Spirit in Trouble, it is meikle for him to pray. Indeed, if the LORDs Spirit accompany a Mans Spirit (tho' it were under Sore Trou<g ref="char:EOLhyphen"/>ble) it is not meikle for him to pray to GOD. Ay Prayer will be Eaſie: But after the Terror of GOD comes with the Affliction and Sore Trouble, ye ſee what <hi>Job</hi> ſays, Job 6.4. <hi>The Terrors of GOD ſets themſelves in Battle aray againſt me.</hi> Now for a Man to pray while under the Terrors of GOD, is no ſmall Difficultie.</p>
+            <p>
+               <hi>Fourthly,</hi> It muſt be a Great Matter for a Man to pray to GOD when under Sore Trouble: And why? Becauſe often<g ref="char:EOLhyphen"/>times, Sore Trouble bring alongs with it Great Confuſion, and Diſtractedneſs of Spirit. Now is it a ſmall Matter (think
+<pb n="19" facs="tcp:179508:10"/>
+ye) to pray then when a Man or Woman is under Great Con<g ref="char:EOLhyphen"/>fuſion and Diſtraction of Spirit? I anſwer with <hi>Job,</hi> 10. Chap. 15. Verſe. <hi>Therefore ſee thou my Affliction</hi> (ſays he) <hi>in time of Sore Affliction.</hi> It is no ſmall Matter to get leave to put up a Petition or Bill before the Throne.</p>
+            <p>But now I come to the <hi>Fourth Note</hi> (and ſhall but ſpeak a Word to it) which is this, That ordinarlie theſe Duties that are gone about againſt manieſt Temptations, and over the Belly of manieſt Diſcouragements, is moſt Succeſsfull and proſ<g ref="char:EOLhyphen"/>pers beſt. And wherefore is it ſo? may ye ſay, I'll tell you the Reaſon of it in theſe <hi>Three</hi> Things ſhortlie, for I muſt haſt.</p>
+            <p>And the <hi>First Reaſon</hi> I'll give you of it, is this, That theſe Duties done againſt manieſt Diſcouragements cannot but Proſ<g ref="char:EOLhyphen"/>per beſt. And why? Becauſe they proceed from much Love, and this makes them Deſirable; and much Love makes them Acceptable to Him in their Dutie, and ſo they cannot but Pro<g ref="char:EOLhyphen"/>ſper in the following of that Dutie, when they in that piece of Service is acceptable to GOD.</p>
+            <p>And <hi>Secondly,</hi> Theſe Duties that are gone about over the Belly of much Diſcouragement as they are done in much Love; ſo likewiſe they are done in verie much Seriouſneſs, and Single<g ref="char:EOLhyphen"/>neſs of Heart, and that makes them to Proſper: I'll tell you the great thing that makes Dutie not to Proſper in your Hands, is your want of Seriouſneſs. And ye were but as Serious a<g ref="char:EOLhyphen"/>bout Religion, as ye are for your Daily Bread, ye would come better ſpeed in Dutie, and ye would thrive well in Religion and the Way of GOD be ye do.</p>
+            <p>
+               <hi>Thirdly,</hi> Theſe Duties that are gone about with the great<g ref="char:EOLhyphen"/>eſt Difficulties and Diſcouragements in the way of them, ordi<g ref="char:EOLhyphen"/>narlie they are attended with moſt Help from GOD. The LORD will not leave that Man that undertakes his Dutie in ſuch a Caſe; He will not leave that Soul that for His Sake (under many Temptations) undertakes a piece of Work for
+<pb n="20" facs="tcp:179508:11"/>
+Him; that Man is ſure of GOD for his Help. And a Man that is ſure of Heaven for his Help, he needs not fear in fol<g ref="char:EOLhyphen"/>lowing of his Dutie whatever be in his Way, for he ſhall be well helped.</p>
+            <p>Now we come to the <hi>Fifth Note,</hi> and ſhall ſpeak but a ſhort Word to it alſo (that ye may be diſpatched) which if ye re<g ref="char:EOLhyphen"/>member was this, That oftentimes the Trouble of the Chri<g ref="char:EOLhyphen"/>ſtian amounts to that height, and is ſuch as admits of no Va<g ref="char:EOLhyphen"/>cancie; they are often brought to their Night of Trouble, as well as of their Day. Now may ye ſay, How comes this to paſs? I'll tell you in theſe <hi>Four</hi> or <hi>Five</hi> Things.</p>
+            <p>
+               <hi>Firſt,</hi> It comes from Satans Malice: So long as Satan can, he will give him no reſt: There is no reſt for the Chriſtian if Satan can hinder his reſt he will do it, and if he can take a<g ref="char:EOLhyphen"/>way the Nights reſt from him as well as the Days, be ſure he will do it; and ſo it is oftentimes from Satan that the Chriſti<g ref="char:EOLhyphen"/>ans Trouble amounts to this height, that it admits of no Va<g ref="char:EOLhyphen"/>cancie.</p>
+            <p>
+               <hi>Secondly,</hi> It comes from the Soveraign Hand of GOD, for Holy and Wiſe Ends known to Himſelf. Sometimes the LORD ſees it fit to keep them in Continual Trouble, that He may Melt and Refine them from their Droſs. There is ſome Met<g ref="char:EOLhyphen"/>tals ill to purge, and therefore it muſt be keeped long in the Furnace: Even ſo, there are ſome Chriſtians that muſt be keep<g ref="char:EOLhyphen"/>ed long in the Furnace of Affliction and Trouble, that He may Melt and Refine them there, till their Droſs go away from them, otherways He would not continue them in Trouble: For the End and Fruit of <hi>Jacob</hi>'s Trouble is to purge away Sin; and becauſe Sin is ill to purge away in many, therefore Trouble muſt continue.</p>
+            <p>
+               <hi>Thirdly,</hi> The LORD does it for this End, that they may thereby know what Power and Moyen He hath; it will keep the Man in Life under the Greateſt Trouble that he can come
+<pb n="21" facs="tcp:179508:11"/>
+under, to remember that this Trouble is but to give him a proof of his Power and Love. O how will the Soul under Trouble be Refreſhed, when he conſiders, hereby I ſhall have a proof of his never failing Faithfulneſs made out to my Soul. What otherways can the Soul ſay that ſees him (notwithſtan<g ref="char:EOLhyphen"/>ding of all that He lays on) ſtill keeping Heaven for his Friends.</p>
+            <p>
+               <hi>Fourthly,</hi> He does it for this End, That his Friends may know how Dangerous it is to be far from GOD. Laſting Trouble requires Divine and Laſting Support, or elſe Laſting Trouble would waſte and deſtroy, and bring the Soul in a Dan<g ref="char:EOLhyphen"/>gerous Caſe.</p>
+            <p>And, <hi>Laſtly,</hi> He does it to keep you from making any more acquaintance with your former Idols. A Man under Sore Trou<g ref="char:EOLhyphen"/>ble will not readily ſeek after his former Idols; for he knows they will do him no Good: and therefore in the 14 of Hoſea, and 3. Verſe, <hi>We will not ſay any more to the Work of our Hands, ye are our gods, for in Thee the Fatherleſs findeth Mercy.</hi>
+            </p>
+            <p>But now we come to the <hi>Last Note</hi> which is this, That the day is coming wherein the Chriſtian ſhall ſpeak of all his Sore Troubles as of Things bygone, however ſad they be for the time; Yet the day is coming wherein they ſhall ſpeak of them all as of Things paſt and gone. There are theſe <hi>Five</hi> or <hi>Six</hi> Sad Things now in the Chriſtians Lot, that ere long he will ſpeak of them as of Things bygone.</p>
+            <p>
+               <hi>Firſt,</hi> The Day is coming wherein the Chriſtian ſhall have this to ſay, the day was once wherein I was under Deſertion, and a ſad and ſore Cloud it was; but now He has taken it a<g ref="char:EOLhyphen"/>way, and I have Light for Darkneſs, for he has written his Name upon my Forehead, <hi>and now I ſee no more darkly as through a Glaſs; but I ſee Him Face to Face,</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Day is coming wherein the Chriſtian ſhall have this to ſay, the Day was once when I was under Sad
+<pb n="22" facs="tcp:179508:12"/>
+and Sore Temptations; but now Satan has nothing in me to work upon: The Day was once wherein Satan never ſooner knocked at my Heart, but there was ſome Traitor or another in the Houſe as ready to open a Door or Window to let him in; but now he has nothing in me to work upon at all.</p>
+            <p>
+               <hi>Thirdly,</hi> The Day is coming wherein the Chriſtian will have this to ſay, the Day was once, wherein I was ſo hard<g ref="char:EOLhyphen"/>ly purſued that I might ſcarcely byde ſo long as to take either Friend or Kin by the hand; but now I am the day where the Weary are at Reſt: The Day was once, wherein I had neither Days nor Nights Reſt; but now I may Reſt both Night and Day, and there were any Night there, but there is none.</p>
+            <p>
+               <hi>Fourthly,</hi> The Day is coming wherein the Chriſtian will have this to ſay, the Day was once, wherein I was a Man ve<g ref="char:EOLhyphen"/>ry much Reproached and Debaſed; but now He has wiped a<g ref="char:EOLhyphen"/>way my Reproach, and made me very Honourable; He has made me now as Honourable as I was Vile, if not more; for He has now taken away my Filthineſs, and Beautified me with His Comlineſs.</p>
+            <p>
+               <hi>Fifthly,</hi> The Day is coming wherein the Chriſtian ſhall have this to ſay, the Day was once, wherein I was in a very Low and Mean Condition, when my Ten Fingers behoved to Provide for my Dinner, and when I had gotten it, I wiſt not well where I was to ly down at Night, or where to get my Sup<g ref="char:EOLhyphen"/>per; but now I am beyond that; I need not now care for my Self, nor my Wife, and my Family, for I am Richly provided; for there is no Want in Heaven.</p>
+            <p>
+               <hi>Sixthly,</hi> The Day is coming wherein the Chriſtian will have this to ſay, the Day was once, wherein I was a Man very much given to Wandering, and going out of CHRISTs Way. O how many Wild Staps have I gone, they are paſt Numbering; but now I will Wander no more, I will never go out of Chriſt's
+<pb n="23" facs="tcp:179508:12"/>
+Way again; I will now Wander, and go after Satans Ways no more for ever.</p>
+            <p>And, <hi>Laſtly,</hi> The Day is coming wherein the Chriſtian ſhall have this to ſay, the Day was once, wherein I ſat all day long in the Solemn Aſſembly and Meeting of His People Sorrowing over the Deſolations of the Sanctuary; but now I ſhall ſit no more in that Aſſembly below in Sorrow and Grief; but I ſhall <hi>ſit in the General Aſſembly and Church of the First-born with GOD and Angels and Spirits of Just Men made Perfect, Rejoicing for evermore.</hi> Ay, the Day is coming wherein the Chriſtian ſhall ſpeak of all his Sorrows whatever they be, as of bygone Things; and as it is with the Chriſtian, ſo it will be with the Wicked. The Day is coming wherein the Wicked ſhall ſpeak of all their Good Things, as of Things bygone and paſt: The Day is coming wherein they ſhall ſay, I was once Great, but now I am Low; I was once Strong, but now I am Weak: I had once many Friends, but I have now many Ene<g ref="char:EOLhyphen"/>mies: I was once Honourable, but now I am Baſe and Con<g ref="char:EOLhyphen"/>temptible: I had once Power, but now I am a Slave. O there will be a Strange Change, and ye could wait upon it. The Day is coming wherein they will be very High, that are this Day very Low: And they who are this Day very High, ere long will be brought very Low. O and ye could believe thir Things; but whether ye believe them or not, they are not Cunningly Deviſed Fables. Ye will find it to be ſo ere long; and ye had Faith to believe it, and Patience to wait for it (but a little) ye would ſee it: But we will ſay no more at this time.</p>
+            <closer>Let us Pray.</closer>
+            <pb facs="tcp:179508:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
